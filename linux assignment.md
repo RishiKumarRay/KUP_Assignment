@@ -310,7 +310,7 @@ here using this ssh agent to connect without typing pass phrase every time.
 
 This is the unit file that we created for nginx during sessions-
 
-|      | [Unit]                                                       |
+|      |[Unit]                                                       |
 | ---- | ------------------------------------------------------------ |
 |      | Description=A high performance web server and a reverse proxy server |
 |      |                                                              |
